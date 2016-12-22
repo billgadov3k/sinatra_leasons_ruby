@@ -1,1 +1,2 @@
-# sinatra_leasons_ruby
+# sinatra leasons ruby
+урок из книги по Руби
